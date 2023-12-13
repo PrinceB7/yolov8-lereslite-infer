@@ -1,1 +1,1 @@
-asd
+Repo to infer yolov8-based semantic segmentation model
